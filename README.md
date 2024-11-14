@@ -47,6 +47,4 @@ tailwind.config.js
 
 Open `index.html` in your browser to view the main landing page. Navigate to `src/cart.html` to view and manage items in the cart.
 
-## License
 
-This project is licensed under the MIT License.
